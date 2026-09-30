@@ -1,0 +1,14 @@
+2026/09/30-11:31:19.772 403c Reusing MANIFEST C:\Users\aluno\Documents\2°DES.SIST\empreendedorismo\ibipora-conecta 2.0\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/30-11:31:19.772 403c Recovering log #92
+2026/09/30-11:31:19.785 403c Reusing old log C:\Users\aluno\Documents\2°DES.SIST\empreendedorismo\ibipora-conecta 2.0\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000092.log 
+2026/09/30-11:32:42.806 403c Level-0 table #98: started
+2026/09/30-11:32:42.841 403c Level-0 table #98: 1336586 bytes OK
+2026/09/30-11:32:42.843 403c Delete type=0 #92
+2026/09/30-11:33:01.925 1d84 Compacting 1@1 + 2@2 files
+2026/09/30-11:33:02.033 1d84 Generated table #99@1: 48965 keys, 2214006 bytes
+2026/09/30-11:33:02.047 1d84 Generated table #100@1: 15689 keys, 905686 bytes
+2026/09/30-11:33:02.048 1d84 Compacted 1@1 + 2@2 files => 3119692 bytes
+2026/09/30-11:33:02.048 1d84 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/09/30-11:33:02.048 1d84 Delete type=2 #94
+2026/09/30-11:33:02.048 1d84 Delete type=2 #95
+2026/09/30-11:33:02.048 1d84 Delete type=2 #98

@@ -1,0 +1,21 @@
+{
+    "name": "ibipora-conecta-2.0",
+    "version": "1.0.0",
+    "description": "MVP do bot de atendimento digital do Ibiporã Conecta via WhatsApp",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.22.3",
+        "qrcode-terminal": "^0.12.0",
+        "whatsapp-web.js": "^1.34.7"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "allowScripts": {
+        "puppeteer@24.38.0": true
+    }
+}
