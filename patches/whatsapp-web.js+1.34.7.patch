@@ -1,0 +1,15 @@
+diff --git a/node_modules/whatsapp-web.js/src/util/Injected/Utils.js b/node_modules/whatsapp-web.js/src/util/Injected/Utils.js
+index cc8f47f..5582a4d 100644
+--- a/node_modules/whatsapp-web.js/src/util/Injected/Utils.js
++++ b/node_modules/whatsapp-web.js/src/util/Injected/Utils.js
+@@ -552,9 +552,7 @@ exports.LoadUtils = () => {
+                     messageSecret: window.crypto.getRandomValues(
+                         new Uint8Array(32),
+                     ),
+-                    cannotBeRanked: window
+-                        .require('WAWebStatusGatingUtils')
+-                        .canCheckStatusRankingPosterGating(),
++                    cannotBeRanked: false,
+                 },
+             );
+ 

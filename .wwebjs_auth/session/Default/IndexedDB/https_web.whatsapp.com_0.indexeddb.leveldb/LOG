@@ -1,14 +1,22 @@
-2026/09/30-11:31:19.772 403c Reusing MANIFEST C:\Users\aluno\Documents\2°DES.SIST\empreendedorismo\ibipora-conecta 2.0\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/09/30-11:31:19.772 403c Recovering log #92
-2026/09/30-11:31:19.785 403c Reusing old log C:\Users\aluno\Documents\2°DES.SIST\empreendedorismo\ibipora-conecta 2.0\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000092.log 
-2026/09/30-11:32:42.806 403c Level-0 table #98: started
-2026/09/30-11:32:42.841 403c Level-0 table #98: 1336586 bytes OK
-2026/09/30-11:32:42.843 403c Delete type=0 #92
-2026/09/30-11:33:01.925 1d84 Compacting 1@1 + 2@2 files
-2026/09/30-11:33:02.033 1d84 Generated table #99@1: 48965 keys, 2214006 bytes
-2026/09/30-11:33:02.047 1d84 Generated table #100@1: 15689 keys, 905686 bytes
-2026/09/30-11:33:02.048 1d84 Compacted 1@1 + 2@2 files => 3119692 bytes
-2026/09/30-11:33:02.048 1d84 compacted to: files[ 0 0 2 0 0 0 0 ]
-2026/09/30-11:33:02.048 1d84 Delete type=2 #94
-2026/09/30-11:33:02.048 1d84 Delete type=2 #95
-2026/09/30-11:33:02.048 1d84 Delete type=2 #98
+2026/10/02-11:36:00.819 4d10 Reusing MANIFEST C:\Users\aluno\Documents\2°DES.SIST\empreendedorismo\ibipora-conecta 2.0\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/02-11:36:00.827 4d10 Recovering log #387
+2026/10/02-11:36:00.845 4d10 Reusing old log C:\Users\aluno\Documents\2°DES.SIST\empreendedorismo\ibipora-conecta 2.0\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000387.log 
+2026/10/02-11:36:13.424 2160 Level-0 table #397: started
+2026/10/02-11:36:13.458 2160 Level-0 table #397: 1375097 bytes OK
+2026/10/02-11:36:13.460 2160 Delete type=0 #387
+2026/10/02-11:36:13.857 4d10 Compacting 1@1 + 6@2 files
+2026/10/02-11:36:13.892 4d10 Generated table #398@1: 29086 keys, 2184133 bytes
+2026/10/02-11:36:13.933 4d10 Generated table #399@1: 37323 keys, 2216135 bytes
+2026/10/02-11:36:13.976 4d10 Generated table #400@1: 43030 keys, 2253459 bytes
+2026/10/02-11:36:13.998 4d10 Generated table #401@1: 30108 keys, 2170366 bytes
+2026/10/02-11:36:14.033 4d10 Generated table #402@1: 85759 keys, 2242922 bytes
+2026/10/02-11:36:14.064 4d10 Generated table #403@1: 68888 keys, 1948441 bytes
+2026/10/02-11:36:14.064 4d10 Compacted 1@1 + 6@2 files => 13015456 bytes
+2026/10/02-11:36:14.064 4d10 compacted to: files[ 0 0 6 0 0 0 0 ]
+2026/10/02-11:36:14.065 4d10 Delete type=2 #389
+2026/10/02-11:36:14.065 4d10 Delete type=2 #390
+2026/10/02-11:36:14.065 4d10 Delete type=2 #391
+2026/10/02-11:36:14.065 4d10 Delete type=2 #392
+2026/10/02-11:36:14.065 4d10 Delete type=2 #393
+2026/10/02-11:36:14.065 4d10 Delete type=2 #394
+2026/10/02-11:36:14.065 4d10 Delete type=2 #397

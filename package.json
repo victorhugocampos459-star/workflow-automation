@@ -4,18 +4,23 @@
     "description": "MVP do bot de atendimento digital do Ibiporã Conecta via WhatsApp",
     "main": "server.js",
     "scripts": {
-        "start": "node server.js"
-    },
+    "start": "node server.js",
+    "postinstall": "patch-package"
+},
     "dependencies": {
         "express": "^4.22.3",
         "qrcode-terminal": "^0.12.0",
-        "whatsapp-web.js": "^1.34.7"
+        "whatsapp-web.js": "github:wwebjs/whatsapp-web.js"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "type": "commonjs",
     "allowScripts": {
-        "puppeteer@24.38.0": true
+        "puppeteer@24.38.0": true,
+        "github:wwebjs/whatsapp-web.js#064a3d5a5a3dce1281a6a12740b5a7051339d154": true
+    },
+    "devDependencies": {
+        "patch-package": "^8.0.1"
     }
 }
